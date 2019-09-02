@@ -4,69 +4,46 @@ permalink: /research/
 title: Research
 pubs:
 
-    - title:   "Paper title in 3-7 words that sound like Clingon"
-      author:  "M. McFly, D. Kirk, L. Skywalker, H.J. Potter, I. Jones, H. Houdini"
-      journal: "Transactions on Black Magic"
-      note:    "(presented at Oz)"
-      year:    "2016"
+    - title:   "A Conditional Adversarial Network for Scene Flow Estimation"
+      author:  "Thakur, R. K., & Mukherjee, S."
+      journal: "IEEE International Conference on Robotics and Human Interactive Communication"
+      note:    "RO-MAN"
+      year:    "2019"
       url:     "http://publish-more-stuff.org"
       doi:     "http://dx.doi.org"
-      image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
-      media:
-        - name: "IMDB"
-          url:  "http://www.imdb.com/title/tt0133093/"
+      #image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
+      #media:
+      #  - name: "IMDB"
+      #    url:  "http://www.imdb.com/title/tt0133093/"
 
-    - title:   "Paper title in 3-7 words that sound like Clingon"
-      author:  "M. McFly, D. Kirk, L. Skywalker, H.J. Potter, I. Jones, H. Houdini"
-      journal: "Transactions on Black Magic"
-      note:    "(presented at Oz)"
-      year:    "2015"
-      url:     "http://publish-more-stuff.org"
-      doi:     "http://dx.doi.org"
-      image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
-      media:
-        - name: "IMDB"
-          url:  "http://www.imdb.com/title/tt0133093/"
+    - title:   "SceneEDNet: A Deep Learning Approach for Scene Flow Estimation"
+      author:  "Thakur, R. K., & Mukherjee, S."
+      journal: "IEEE International Conference on Control, Automation, Robotics and Vision"
+      note:    "ICARCV"
+      year:    "2018"
+      url:     "https://ieeexplore.ieee.org/abstract/document/8581172"
+      doi:     "https://doi.org/10.1109/ICARCV.2018.8581172"
+      #image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
+      #media:
+      #  - name: "IMDB"
+      #    url:  "http://www.imdb.com/title/tt0133093/"
 
-    - title:   "Paper title in 3-7 words that sound like Clingon"
-      author:  "M. McFly, D. Kirk, L. Skywalker, H.J. Potter, I. Jones, H. Houdini"
-      journal: "Transactions on Black Magic"
-      note:    "(presented at Oz)"
-      year:    "2014"
-      url:     "http://publish-more-stuff.org"
-      doi:     "http://dx.doi.org"
-      image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
+    - title:   "Development of an integrated haptic system for simulating upper gastrointestinal endoscopy"
+      author:  "Chakravarthy, S., Balakuntala, M. V., Rao, A. M., Thakur, R. K., & Ananthasuresh, G. K."
+      journal: "Mechatronics"
+      note:    "Volume 56"
+      year:    "2018"
+      url:     "https://www.sciencedirect.com/science/article/abs/pii/S0957415818301636"
+      doi:     "https://doi.org/10.1016/j.mechatronics.2018.10.006"
+      #image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
       media:
-        - name: "IMDB"
-          url:  "http://www.imdb.com/title/tt0133093/"
+        - name: "video"
+          url:  "https://www.youtube.com/watch?v=KcMPzj1OfZY"
 
-    - title:   "Paper title in 3-7 words that sound like Clingon"
-      author:  "M. McFly, D. Kirk, L. Skywalker, H.J. Potter, I. Jones, H. Houdini"
-      journal: "Transactions on Black Magic"
-      note:    "(presented at Oz)"
-      year:    "2013"
-      url:     "http://publish-more-stuff.org"
-      doi:     "http://dx.doi.org"
-      image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
-      media:
-        - name: "IMDB"
-          url:  "http://www.imdb.com/title/tt0133093/"
-
-    - title:   "Paper title in 3-7 words that sound like Clingon"
-      author:  "M. McFly, D. Kirk, L. Skywalker, H.J. Potter, I. Jones, H. Houdini"
-      journal: "Transactions on Black Magic"
-      note:    "(presented at Oz)"
-      year:    "2012"
-      url:     "http://publish-more-stuff.org"
-      doi:     "http://dx.doi.org"
-      image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
-      media:
-        - name: "IMDB"
-          url:  "http://www.imdb.com/title/tt0133093/"
 
 ---
 
-## Publications (peer reviewed)
+## Publications 
 
 {% assign thumbnail="left" %}
 

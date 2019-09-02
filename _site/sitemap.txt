@@ -1,5 +1,4 @@
 
-http://ravikt.github.io/much-worse-jekyll-theme/blog/
 http://ravikt.github.io/much-worse-jekyll-theme/cv/
 http://ravikt.github.io/much-worse-jekyll-theme/feed.xml
 http://ravikt.github.io/much-worse-jekyll-theme/

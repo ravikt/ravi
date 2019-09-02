@@ -7,6 +7,7 @@ exclude: ["Makefile", "README.md"]
 
 url: "http://ravikt.github.io"     # the base hostname & protocol for your site
 baseurl: "/much-worse-jekyll-theme"                   # the subpath of your site, e.g. /blog
+github_username: ravikt 
 
 author:
     name:
