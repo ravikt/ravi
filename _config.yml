@@ -10,10 +10,9 @@ baseurl: ""                  # the subpath of your site, e.g. /blog
 github_username: ravikt 
 linkedin: ravikumarthakur
 
-footer_links:
-    label: "GitHub"
-    icon: "fab fa-fw fa-github"
-    url: "https://github.com/ravikt"
+social-network-links:
+  rss: true
+  github: ravikt
 
 author:
     name: Ravi Kumar Thakur
