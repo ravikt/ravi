@@ -7,18 +7,14 @@ exclude: ["Makefile", "README.md"]
 
 url: ""     # the base hostname & protocol for your site
 baseurl: ""                  # the subpath of your site, e.g. /blog
-github_username: ravikt 
-linkedin: ravikumarthakur
-
-social-network-links:
-  rss: true
-  github: ravikt
 
 author:
     name: Ravi Kumar Thakur
-    facebook:
-    scholar:
-
+ 
+social-network-links:
+  rss: true
+  github: ravikt
+  
 # Build settings
 markdown: kramdown
 highlighter: rouge
