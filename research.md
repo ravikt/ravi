@@ -23,10 +23,10 @@ pubs:
       year:    "2018"
       url:     "https://ieeexplore.ieee.org/abstract/document/8581172"
       doi:     "https://doi.org/10.1109/ICARCV.2018.8581172"
-      code:    "https://github.com/ravikt/sceneednet"
+      code:    
       #media:
-      #  - name: "IMDB"
-      #    url:  "http://www.imdb.com/title/tt0133093/"
+        - name: "code"
+          url:  "https://github.com/ravikt/sceneednet"
 
     - title:   "Development of an integrated haptic system for simulating upper gastrointestinal endoscopy"
       author:  "Chakravarthy, S., Balakuntala, M. V., Rao, A. M., Thakur, R. K., & Ananthasuresh, G. K."
