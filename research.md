@@ -23,7 +23,7 @@ pubs:
       year:    "2018"
       url:     "https://ieeexplore.ieee.org/abstract/document/8581172"
       doi:     "https://doi.org/10.1109/ICARCV.2018.8581172"
-      #image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
+      code:    "https://github.com/ravikt/sceneednet"
       #media:
       #  - name: "IMDB"
       #    url:  "http://www.imdb.com/title/tt0133093/"
