@@ -11,9 +11,9 @@ baseurl: ""                  # the subpath of your site, e.g. /blog
 author:
     name: Ravi Kumar Thakur
  
-social-network-links:
-  rss: true
-  github: ravikt
+#social-network-links:
+  #rss: true
+  #github: ravikt
   
 # Build settings
 markdown: kramdown
