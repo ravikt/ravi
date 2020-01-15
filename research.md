@@ -9,8 +9,8 @@ pubs:
       journal: "IEEE International Conference on Robotics and Human Interactive Communication"
       note:    "RO-MAN"
       year:    "2019"
-      url:     "http://publish-more-stuff.org"
-      doi:     "http://dx.doi.org"
+      url:     "https://ieeexplore.ieee.org/document/8956310"
+      doi:     "https://doi.org/10.1109/RO-MAN46459.2019.8956310"
       #image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
       #media:
       #  - name: "IMDB"
