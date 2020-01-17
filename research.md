@@ -11,7 +11,6 @@ pubs:
       year:    "2019"
       url:     "https://ieeexplore.ieee.org/document/8956310"
       doi:     "https://doi.org/10.1109/RO-MAN46459.2019.8956310"
-      #code:    "https://github.com/ravikt/sceneflowgan"
       #media:
       #  - name: "IMDB"
       #    url:  "http://www.imdb.com/title/tt0133093/"
@@ -23,7 +22,6 @@ pubs:
       year:    "2018"
       url:     "https://ieeexplore.ieee.org/abstract/document/8581172"
       doi:     "https://doi.org/10.1109/ICARCV.2018.8581172"
-      #code:    "https://github.com/ravikt/sceneednet"
       #media:
         - name: "code"
           url:  "https://github.com/ravikt/sceneednet"
