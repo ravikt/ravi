@@ -43,6 +43,8 @@ pubs:
 
 ---
 
+My current research interest is in vision based autonomy and control for autonomous systems.  
+
 ## Publications 
 
 {% assign thumbnail="left" %}
