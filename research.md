@@ -2,6 +2,7 @@
 layout: page
 permalink: /research/
 title: Research
+My current research interest is in vision based autonomy and control for autonomous systems.  
 pubs:
 
     - title:   "A Conditional Adversarial Network for Scene Flow Estimation"
@@ -43,7 +44,7 @@ pubs:
 
 ---
 
-My current research interest is in vision based autonomy and control for autonomous systems.  
+
 
 ## Publications 
 
