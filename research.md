@@ -4,6 +4,18 @@ permalink: /research/
 title: Research 
 pubs:
 
+    - title:   "Imitation Learning with Human Eye Gaze via Multi-Objective Prediction"
+      author:  "Thakur RK, Sunbeam MD, Goecks VG, Novoseller E, Bera R, Lawhern V, Gremillion G, Valasek J, Waytowich NR"
+      journal: "ILHF Workshop International Conference on Machine Learning (ICML) 2023"
+      #note:    "Volume 56"
+      year:    "2023"
+      url:     "https://openreview.net/forum?id=MF1Tcmk2YB"
+      #doi:     "https://doi.org/10.1016/j.mechatronics.2018.10.006"
+      #image:   "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.moviepostershop.com%2Fthe-matrix-movie-poster-1999-1020518087.jpg&f=1"
+      media:
+        - name: "video"
+          url:  "https://www.youtube.com/watch?v=vFiT293FR1Q"
+
     - title:   "A Conditional Adversarial Network for Scene Flow Estimation"
       author:  "Thakur, R. K., & Mukherjee, S."
       journal: "IEEE International Conference on Robotics and Human Interactive Communication"
