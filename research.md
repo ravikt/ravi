@@ -6,7 +6,7 @@ pubs:
 
     - title:   "Imitation Learning with Human Eye Gaze via Multi-Objective Prediction"
       author:  "Thakur RK, Sunbeam MD, Goecks VG, Novoseller E, Bera R, Lawhern V, Gremillion G, Valasek J, Waytowich NR"
-      journal: "ILHF Workshop International Conference on Machine Learning (ICML) 2023"
+      journal: "ILHF Workshop International Conference on Machine Learning (ICML)"
       #note:    "Volume 56"
       year:    "2023"
       url:     "https://openreview.net/forum?id=MF1Tcmk2YB"
@@ -55,7 +55,7 @@ pubs:
 
 ---
 
-My current research interest is in vision based autonomy and control for autonomous systems.
+My current research interest is in vision-based autonomy and control for aerospace systems. 
 
 ## Publications 
 
