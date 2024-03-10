@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 
-{% include image.html url="images/ravi.jpg" caption="" max_width="150px" align="right" %}
+{% include image.html url="images/ravi.jpeg" caption="" max_width="150px" align="right" %}
 
 I work at the intersection of robotics and machine learning. In the recent past, I have worked in developing data-driven models for fundamental and applied problems in computer vision. Some of those include scene flow estimation, visual odometry, and object tracking. Most of these work can be accessed through my github account. I have also worked in the design and analysis of compliant mechanism for a medical simulation device. I have a background in Physics through my undergraduate studies. 
 
